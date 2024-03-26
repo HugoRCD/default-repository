@@ -7,14 +7,12 @@
   "author": "HugoRCD",
   "scripts": {
     "rename": "./scripts/rename.sh $1",
-    "automd": "automd"
+    "automd": "automd",
+    "prepare": "husky"
   },
   "packageManager": "bun@1.0.30",
   "devDependencies": {
     "automd": "^0.3.6",
-    "simple-git-hooks": "^2.11.1"
-  },
-  "simple-git-hooks": {
-    "pre-commit": "npm run automd"
+    "husky": "^9.0.11"
   }
 }

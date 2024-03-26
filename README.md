@@ -2,8 +2,8 @@
 
 <!-- automd:badges color=black -->
 
-[![npm version](https://flat.badgen.net/npm/v/packageName?color=yellow)](https://npmjs.com/package/packageName)
-[![npm downloads](https://flat.badgen.net/npm/dm/packageName?color=yellow)](https://npmjs.com/package/packageName)
+[![npm version](https://flat.badgen.net/npm/v/default-repository?color=black)](https://npmjs.com/package/default-repository)
+[![npm downloads](https://flat.badgen.net/npm/dm/default-repository?color=black)](https://npmjs.com/package/default-repository)
 
 <!-- /automd -->
 
@@ -52,11 +52,11 @@ bun install default-repository
 
 <!-- automd:contributors license=MIT author=HugoRCD-->
 
-Published under the [MIT](https://github.com/unjs/packageName/blob/main/LICENSE) license.
-Made by [community](https://github.com/unjs/packageName/graphs/contributors) 💛
+Published under the [MIT](https://github.com/HugoRCD/default-repository/blob/main/LICENSE) license.
+Made by [@HugoRCD](https://github.com/HugoRCD) and [community](https://github.com/HugoRCD/default-repository/graphs/contributors) 💛
 <br><br>
-<a href="https://github.com/unjs/packageName/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=unjs/packageName" />
+<a href="https://github.com/HugoRCD/default-repository/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=HugoRCD/default-repository" />
 </a>
 
 <!-- /automd -->
