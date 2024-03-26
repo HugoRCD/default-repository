@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Configurable values
+replacement_string="<replacement_string>"
+excluded_dirs=(node_modules dist .idea .vscode .git bun.lockb)
+
 # Check if argument is provided
 if [ $# -ne 1 ]; then
     echo "Usage: $0 <replacement_string>"
@@ -8,7 +12,8 @@ fi
 
 replacement_string=$1
 
-files=$(grep -rl 'default-repository' --exclude-dir=node_modules --exclude-dir=dist --exclude-dir=.idea --exclude-dir=.vscode --exclude-dir=.git --exclude=bun.lockb .)
+# Find files excluding specified directories
+files=$(grep -rl 'default-repository' $(printf -- '--exclude-dir=%s ' "${excluded_dirs[@]}"))
 
 for file in $files; do
     sed -i "" "s/default-repository/$replacement_string/g" $file
