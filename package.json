@@ -6,6 +6,14 @@
   "repository": "https://github.com/HugoRCD/default-repository.git",
   "author": "HugoRCD",
   "scripts": {
-    "rename": "./scripts/rename.sh $1"
+    "rename": "./scripts/rename.sh $1",
+    "automd": "automd"
+  },
+  "packageManager": "bun@1.0.30",
+  "devDependencies": {
+    "automd": "^0.3.6"
+  },
+  "simple-git-hooks": {
+    "pre-commit": "npm run automd"
   }
 }
