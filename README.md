@@ -36,17 +36,15 @@ bun install default-repository
 
 ## Development
 
-<details>
+Before you start, you can use the `./scripts/rename.sh` script to rename all `default-repository` occurrences in the repository to your new repository name.
 
-<summary>local development</summary>
+### Local development
 
 - Clone this repository
 - Install latest LTS version of [Node.js](https://nodejs.org/en/)
 - Enable [Corepack](https://github.com/nodejs/corepack) using `corepack enable`
 - Install dependencies using `bun install`
 - Run interactive tests using `bun dev`
-
-</details>
 
 ## License
 
