@@ -8,7 +8,7 @@ fi
 
 replacement_string=$1
 
-files=$(grep -rl 'default-repository' --exclude-dir=node_modules --exclude-dir=dist --exclude-dir=.git --exclude=bun.lockb .)
+files=$(grep -rl 'default-repository' --exclude-dir=node_modules --exclude-dir=dist --exclude-dir=.idea --exclude-dir=.vscode --exclude-dir=.git --exclude=bun.lockb .)
 
 for file in $files; do
     sed -i "" "s/default-repository/$replacement_string/g" $file
