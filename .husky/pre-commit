@@ -1,1 +1,1 @@
-bun run automd
+npm run lint:fix
