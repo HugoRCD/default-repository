@@ -32,4 +32,4 @@ changelog:
     - title: Other 🤷‍
       labels:
         - other
-        - "*"
+        - '*'
