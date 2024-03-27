@@ -1,6 +1,6 @@
 # default-repository
 
-<!-- automd:badges color=black license codecov provider=shields  -->
+<!-- automd:badges color=black license provider=shields -->
 
 [![npm version](https://img.shields.io/npm/v/default-repository?color=black)](https://npmjs.com/package/default-repository)
 [![npm downloads](https://img.shields.io/npm/dm/default-repository?color=black)](https://npmjs.com/package/default-repository)
