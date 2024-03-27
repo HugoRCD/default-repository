@@ -1,3 +1,3 @@
-export async function main() {
+export function main() {
   return 'Hello, world!'
 }
