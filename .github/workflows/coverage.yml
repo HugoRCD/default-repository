@@ -15,4 +15,4 @@ jobs:
         uses: codecov/codecov-action@v4.1.1
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
-          slug: HugoRCD/shelve
+          slug: HugoRCD/default-repository
