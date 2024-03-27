@@ -23,13 +23,13 @@ jobs:
         with:
           types: |
             breaking
+            chore
+            docs
             feat
             fix
-            docs
-            dependencies
             refactor
-            security
-            version
+            revert
+            test
             other
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
