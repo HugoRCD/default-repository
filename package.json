@@ -11,11 +11,9 @@
   "packageManager": "bun@1.0.30",
   "private": true,
   "scripts": {
-    "automd": "automd",
     "prepare": "husky",
     "typecheck": "tsc --noEmit",
     "test": "vitest",
-    "coverage": "vitest run --coverage",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix"
   },
@@ -24,7 +22,6 @@
     "@commitlint/config-conventional": "^19.1.0",
     "@typescript-eslint/eslint-plugin": "latest",
     "@typescript-eslint/parser": "latest",
-    "@vitest/coverage-v8": "^1.4.0",
     "automd": "^0.3.7",
     "eslint": "^8.57.0",
     "husky": "^9.0.11",
