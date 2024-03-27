@@ -1,9 +1,11 @@
 # default-repository
 
-<!-- automd:badges color=black -->
+<!-- automd:badges color=black license codecov provider=shields  -->
 
-[![npm version](https://flat.badgen.net/npm/v/default-repository?color=black)](https://npmjs.com/package/default-repository)
-[![npm downloads](https://flat.badgen.net/npm/dm/default-repository?color=black)](https://npmjs.com/package/default-repository)
+[![npm version](https://img.shields.io/npm/v/default-repository?color=black)](https://npmjs.com/package/default-repository)
+[![npm downloads](https://img.shields.io/npm/dm/default-repository?color=black)](https://npmjs.com/package/default-repository)
+[![codecov](https://img.shields.io/codecov/c/gh/HugoRCD/default-repository?color=black)](https://codecov.io/gh/HugoRCD/default-repository)
+[![license](https://img.shields.io/github/license/HugoRCD/default-repository?color=black)](https://github.com/HugoRCD/default-repository/blob/main/LICENSE)
 
 <!-- /automd -->
 
@@ -76,10 +78,10 @@ Made by [@HugoRCD](https://github.com/HugoRCD) and [community](https://github.co
 
 <!-- /automd -->
 
-<!-- automd:with-automd -->
+<!-- automd:with-automd lastUpdate -->
 
 ---
 
-_🤖 auto updated with [automd](https://automd.unjs.io)_
+_🤖 auto updated with [automd](https://automd.unjs.io) (last updated: Wed Mar 27 2024)_
 
 <!-- /automd -->
