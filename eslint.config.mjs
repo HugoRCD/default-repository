@@ -6,4 +6,7 @@ export default antfu({
   ignores: [
     '**/fixtures',
   ],
+  rules: {
+    'prefer-template': 'error',
+  },
 })
