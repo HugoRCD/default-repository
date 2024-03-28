@@ -17,6 +17,9 @@ changelog:
     - title: Documentation 📚
       labels:
         - docs
+    - title: Lint 💅
+      labels:
+        - lint
     - title: Dependency Updates 📦
       labels:
         - chore

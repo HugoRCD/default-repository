@@ -25,6 +25,7 @@ jobs:
             breaking
             chore
             docs
+            lint
             feat
             fix
             refactor
