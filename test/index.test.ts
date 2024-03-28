@@ -1,5 +1,5 @@
-import { main, waitFor } from './index'
 import { expect, it } from 'vitest'
+import { main, waitFor } from './index'
 
 it('prints \'Hello, world!\'', (): void => {
   const string = main()
