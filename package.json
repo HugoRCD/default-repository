@@ -1,6 +1,6 @@
 {
   "name": "default-repository",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "packageManager": "bun@1.0.30",
   "description": "default repository for HugoRCD",
