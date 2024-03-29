@@ -4,7 +4,6 @@
 
 [![npm version](https://img.shields.io/npm/v/default-repository?color=black)](https://npmjs.com/package/default-repository)
 [![npm downloads](https://img.shields.io/npm/dm/default-repository?color=black)](https://npmjs.com/package/default-repository)
-[![codecov](https://img.shields.io/codecov/c/gh/HugoRCD/default-repository?color=black)](https://codecov.io/gh/HugoRCD/default-repository)
 [![license](https://img.shields.io/github/license/HugoRCD/default-repository?color=black)](https://github.com/HugoRCD/default-repository/blob/main/LICENSE)
 
 <!-- /automd -->
