@@ -81,6 +81,6 @@ Made by [@HugoRCD](https://github.com/HugoRCD) and [community](https://github.co
 
 ---
 
-_🤖 auto updated with [automd](https://automd.unjs.io) (last updated: Wed Mar 27 2024)_
+_🤖 auto updated with [automd](https://automd.unjs.io) (last updated: Fri Mar 29 2024)_
 
 <!-- /automd -->
