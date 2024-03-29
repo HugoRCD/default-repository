@@ -5,34 +5,30 @@ changelog:
     authors:
       - octocat
   categories:
-    - title: Breaking Changes 🛠
+    - title: 🚨 Breaking Changes
       labels:
         - breaking
-    - title: Features 🚀
+    - title: 🚀 Features
       labels:
         - feat
-    - title: Bug Fixes 🐞
+    - title: 🐞 Bug Fixes
       labels:
         - fix
-    - title: Documentation 📚
+    - title: 📚 Documentation
       labels:
         - docs
-    - title: Lint 💅
+    - title: 💅 Style
       labels:
-        - lint
-    - title: Dependency Updates 📦
+        - style
+    - title: 🚧 Chore
       labels:
         - chore
-    - title: Refactoring 🛠
+    - title: 🛠 Refactoring
       labels:
         - refactor
-    - title: Revert 🔄
+    - title: 🔄 Revert
       labels:
         - revert
-    - title: Tests 🧪
+    - title: 🧪 Tests
       labels:
         - test
-    - title: Other 🤷‍
-      labels:
-        - other
-        - '*'
