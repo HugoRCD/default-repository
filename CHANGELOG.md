@@ -1,6 +1,23 @@
 # Changelog
 
 
+## v0.0.2
+
+[compare changes](https://github.com/HugoRCD/default-repository/compare/v0.0.1...v0.0.2)
+
+### 🚀 Enhancements
+
+- Add own eslint configuration and refactor community template ([9a09827](https://github.com/HugoRCD/default-repository/commit/9a09827))
+
+### 📖 Documentation
+
+- Improve all utils files ([627606a](https://github.com/HugoRCD/default-repository/commit/627606a))
+- Update license ([a4bd03c](https://github.com/HugoRCD/default-repository/commit/a4bd03c))
+
+### ❤️ Contributors
+
+- HugoRCD ([@HugoRCD](http://github.com/HugoRCD))
+
 ## v0.0.1
 
 
