@@ -3,5 +3,5 @@ export function main(): string {
 }
 
 export async function waitFor(ms: number): Promise<void> {
-  return new Promise(resolve => setTimeout(resolve, ms))
+  return await new Promise(resolve => setTimeout(resolve, ms))
 }

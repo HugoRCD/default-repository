@@ -19,9 +19,9 @@
     "release": "changelogen --release --push"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^2.11.1",
     "@commitlint/cli": "^19.2.1",
     "@commitlint/config-conventional": "^19.1.0",
+    "@hrcd/eslint-config": "^0.0.2",
     "automd": "^0.3.7",
     "changelogen": "^0.5.5",
     "eslint": "^8.57.0",

@@ -66,9 +66,9 @@ To start contributing, you can follow these steps:
 
 ## License
 
-<!-- automd:contributors license=MIT author=HugoRCD-->
+<!-- automd:contributors license=Apache author=HugoRCD-->
 
-Published under the [MIT](https://github.com/HugoRCD/default-repository/blob/main/LICENSE) license.
+Published under the [APACHE](https://github.com/HugoRCD/default-repository/blob/main/LICENSE) license.
 Made by [@HugoRCD](https://github.com/HugoRCD) and [community](https://github.com/HugoRCD/default-repository/graphs/contributors) 💛
 <br><br>
 <a href="https://github.com/HugoRCD/default-repository/graphs/contributors">
