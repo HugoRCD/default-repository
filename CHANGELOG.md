@@ -1,6 +1,34 @@
 # Changelog
 
 
+## v0.0.3
+
+[compare changes](https://github.com/HugoRCD/default-repository/compare/v0.0.2...v0.0.3)
+
+### 🩹 Fixes
+
+- Workflow ([3442168](https://github.com/HugoRCD/default-repository/commit/3442168))
+
+### 💅 Refactors
+
+- Better TSconfig ([7714986](https://github.com/HugoRCD/default-repository/commit/7714986))
+
+### 📖 Documentation
+
+- Update github files ([7bdc126](https://github.com/HugoRCD/default-repository/commit/7bdc126))
+
+### 📦 Build
+
+- Try new workflow ([c15a8cc](https://github.com/HugoRCD/default-repository/commit/c15a8cc))
+
+### 🏡 Chore
+
+- Update github files ([d43740f](https://github.com/HugoRCD/default-repository/commit/d43740f))
+
+### ❤️ Contributors
+
+- HugoRCD ([@HugoRCD](http://github.com/HugoRCD))
+
 ## v0.0.2
 
 [compare changes](https://github.com/HugoRCD/default-repository/compare/v0.0.1...v0.0.2)
