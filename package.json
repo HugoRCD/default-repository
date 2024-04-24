@@ -18,7 +18,7 @@
     "release": "bun run lint && changelogen --release --push"
   },
   "devDependencies": {
-    "@hrcd/eslint-config": "^0.0.3",
+    "@hrcd/eslint-config": "^1.0.0",
     "automd": "^0.3.7",
     "changelogen": "^0.5.5",
     "eslint": "^8.57.0",
