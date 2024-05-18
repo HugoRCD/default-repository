@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/HugoRCD/default-repository.git"
   },
+  "bugs": {
+    "url": "https://github.com/HugoRCD/default-repository/issues"
+  },
   "scripts": {
     "automd": "automd",
     "typecheck": "tsc --noEmit",
