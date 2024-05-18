@@ -54,3 +54,6 @@ dist
 
 # Shelve
 .shelve
+
+# Coverage
+coverage/
