@@ -22,10 +22,10 @@
     "release": "bun run lint && changelogen --release --push"
   },
   "devDependencies": {
-    "@hrcd/eslint-config": "^1.1.4",
+    "@hrcd/eslint-config": "^1.1.5",
     "automd": "^0.3.7",
     "changelogen": "^0.5.5",
-    "eslint": "^9.3.0",
+    "eslint": "^9.4.0",
     "typescript": "^5.4.5",
     "vitest": "^1.6.0"
   },

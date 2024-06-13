@@ -41,12 +41,15 @@ Before you start, you can use the `./scripts/rename.sh` script to rename all `de
 
 <!-- automd:fetch url="gh:hugorcd/markdown/main/src/local_development.md" -->
 
-### Local development
+<details>
+  <summary>Local development</summary>
 
 - Clone this repository
 - Install latest LTS version of [Node.js](https://nodejs.org/en/)
 - Enable [Corepack](https://github.com/nodejs/corepack) using `corepack enable`
 - Install dependencies using `bun install`
+
+</details>
 
 <!-- /automd -->
 
@@ -85,6 +88,6 @@ Made by [@HugoRCD](https://github.com/HugoRCD) and [community](https://github.co
 
 ---
 
-_🤖 auto updated with [automd](https://automd.unjs.io) (last updated: Fri May 31 2024)_
+_🤖 auto updated with [automd](https://automd.unjs.io) (last updated: Thu Jun 13 2024)_
 
 <!-- /automd -->
