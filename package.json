@@ -1,6 +1,5 @@
 {
   "name": "default-repository",
-  "version": "0.0.3",
   "private": true,
   "type": "module",
   "description": "default repository for HugoRCD",

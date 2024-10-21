@@ -24,11 +24,11 @@ jobs:
           types: |
             breaking
             feat
+            enhancement
             fix
             build
             ci
             docs
-            enhancement
             chore
             performance
             style
