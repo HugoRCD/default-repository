@@ -23,6 +23,7 @@ jobs:
         with:
           scopes: |
             app
+            deps
           types: |
             breaking
             feat

@@ -19,6 +19,7 @@ Here are the available types and scopes:
 
 ### Scopes
 - apps (all applications)
+- deps (all dependencies)
 -->
 
 ### 🔗 Linked issue
