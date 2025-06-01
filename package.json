@@ -17,13 +17,12 @@
     "typecheck": "tsc --noEmit",
     "test": "vitest",
     "lint": "eslint .",
-    "lint:fix": "eslint . --fix",
-    "release": "bun run lint && changelogen --release --push"
+    "lint:fix": "eslint . --fix"
   },
   "devDependencies": {
-    "@hrcd/eslint-config": "^2.3.1",
+    "@shelve/cli": "^4.1.6",
+    "@hrcd/eslint-config": "^3.0.3",
     "automd": "^0.4.0",
-    "changelogen": "^0.6.1",
     "eslint": "^9.28.0",
     "typescript": "^5.8.3",
     "vitest": "^2.1.9"

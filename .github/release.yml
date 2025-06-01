@@ -26,6 +26,12 @@ changelog:
     - title: Documentation 📚
       labels:
         - documentation
+    - title: Tests 🧪
+      labels:
+        - test
+    - title: Refactoring 🛠
+      labels:
+        - refactor
     - title: Dependency Updates 📦
       labels:
         - dependencies
@@ -35,12 +41,6 @@ changelog:
     - title: Style 💅
       labels:
         - style
-    - title: Tests 🧪
-      labels:
-        - test
-    - title: Refactoring 🛠
-      labels:
-        - refactor
     - title: Revert 🔄
       labels:
         - revert
