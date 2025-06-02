@@ -20,5 +20,10 @@ export default defineNuxtConfig({
     provider: 'ipx'
   },
 
-  modules: ['@nuxt/ui', '@nuxt/scripts', '@nuxt/image']
+  modules: [
+    '@nuxt/ui',
+    '@nuxt/scripts',
+    '@nuxt/image',
+    '@vueuse/nuxt'
+  ]
 })
