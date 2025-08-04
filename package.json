@@ -31,7 +31,8 @@
     "@unhead/vue": "^2.0.12",
     "@vueuse/core": "^13.5.0",
     "@vueuse/nuxt": "13.5.0",
-    "nuxt": "^3.17.7",
+    "motion-v": "^1.7.0",
+    "nuxt": "^4.0.2",
     "vue": "latest"
   },
   "devDependencies": {

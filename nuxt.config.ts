@@ -4,10 +4,6 @@ export default defineNuxtConfig({
 
   devtools: { enabled: true },
 
-  future: {
-    compatibilityVersion: 4
-  },
-
   nitro: {
     imports: {
       dirs: ['./server/services']
@@ -24,6 +20,7 @@ export default defineNuxtConfig({
     '@nuxt/ui',
     '@nuxt/scripts',
     '@nuxt/image',
-    '@vueuse/nuxt'
+    '@vueuse/nuxt',
+    'motion-v/nuxt'
   ]
 })
