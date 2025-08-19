@@ -27,10 +27,10 @@
   "dependencies": {
     "@nuxt/image": "1.11.0",
     "@nuxt/scripts": "0.11.10",
-    "@nuxt/ui": "3.3.0",
+    "@nuxt/ui": "3.3.2",
     "@unhead/vue": "^2.0.14",
-    "@vueuse/core": "^13.6.0",
-    "@vueuse/nuxt": "13.6.0",
+    "@vueuse/core": "^13.7.0",
+    "@vueuse/nuxt": "13.7.0",
     "motion-v": "^1.7.0",
     "nuxt": "^4.0.3",
     "vue": "latest"
