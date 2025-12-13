@@ -41,7 +41,7 @@
     "automd": "^0.4.2",
     "eslint": "^9.39.2",
     "typescript": "^5.9.3",
-    "vitest": "^3.2.4"
+    "vitest": "^4.0.15"
   },
   "publishConfig": {
     "access": "public"
