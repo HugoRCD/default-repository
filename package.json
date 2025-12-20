@@ -26,8 +26,8 @@
   },
   "dependencies": {
     "@nuxt/image": "2.0.0",
-    "@nuxt/scripts": "0.13.1",
-    "@nuxt/ui": "^4.2.1",
+    "@nuxt/scripts": "0.13.2",
+    "@nuxt/ui": "^4.3.0",
     "@unhead/vue": "^2.0.19",
     "@vueuse/core": "^14.1.0",
     "@vueuse/nuxt": "14.1.0",
@@ -41,10 +41,10 @@
     "automd": "^0.4.2",
     "eslint": "^9.39.2",
     "typescript": "^5.9.3",
-    "vitest": "^4.0.15"
+    "vitest": "^4.0.16"
   },
   "publishConfig": {
     "access": "public"
   },
-  "packageManager": "pnpm@10.26.0"
+  "packageManager": "pnpm@10.26.1"
 }
