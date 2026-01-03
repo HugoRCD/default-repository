@@ -31,7 +31,7 @@
     "@unhead/vue": "^2.1.1",
     "@vueuse/core": "^14.1.0",
     "@vueuse/nuxt": "14.1.0",
-    "motion-v": "^1.7.2",
+    "motion-v": "^1.7.5",
     "nuxt": "^4.2.2",
     "vue": "latest"
   },
@@ -46,5 +46,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "packageManager": "pnpm@10.26.2"
+  "packageManager": "pnpm@10.27.0"
 }
