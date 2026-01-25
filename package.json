@@ -31,8 +31,8 @@
     "@unhead/vue": "^2.1.2",
     "@vueuse/core": "^14.1.0",
     "@vueuse/nuxt": "14.1.0",
-    "motion-v": "^1.9.0",
-    "nuxt": "^4.2.2",
+    "motion-v": "^1.10.0",
+    "nuxt": "^4.3.0",
     "vue": "latest"
   },
   "devDependencies": {
@@ -41,7 +41,7 @@
     "automd": "^0.4.2",
     "eslint": "^9.39.2",
     "typescript": "^5.9.3",
-    "vitest": "^4.0.17"
+    "vitest": "^4.0.18"
   },
   "publishConfig": {
     "access": "public"
