@@ -31,13 +31,13 @@
     "@unhead/vue": "^2.1.2",
     "@vueuse/core": "^14.1.0",
     "@vueuse/nuxt": "14.1.0",
-    "motion-v": "^1.10.0",
+    "motion-v": "^1.10.2",
     "nuxt": "^4.3.0",
     "vue": "latest"
   },
   "devDependencies": {
     "@hrcd/eslint-config": "^3.0.3",
-    "@shelve/cli": "^4.1.6",
+    "@shelve/cli": "^4.1.7",
     "automd": "^0.4.2",
     "eslint": "^9.39.2",
     "typescript": "^5.9.3",
@@ -46,5 +46,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "packageManager": "pnpm@10.28.1"
+  "packageManager": "pnpm@10.28.2"
 }
