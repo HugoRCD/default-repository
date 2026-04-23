@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@nuxt/image": "2.0.0",
-    "@nuxt/scripts": "0.13.2",
+    "@nuxt/scripts": "0.13.4",
     "@nuxt/ui": "^4.6.1",
     "@unhead/vue": "^2.1.13",
     "@vueuse/core": "^14.2.1",
@@ -37,14 +37,14 @@
   },
   "devDependencies": {
     "@hrcd/eslint-config": "^3.0.3",
-    "@shelve/cli": "^4.1.7",
+    "@shelve/cli": "^4.2.0",
     "automd": "^0.4.3",
     "eslint": "^9.39.4",
     "typescript": "^5.9.3",
-    "vitest": "^4.1.4"
+    "vitest": "^4.1.5"
   },
   "publishConfig": {
     "access": "public"
   },
-  "packageManager": "pnpm@10.33.0"
+  "packageManager": "pnpm@10.33.1"
 }
