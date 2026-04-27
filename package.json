@@ -27,7 +27,7 @@
   "dependencies": {
     "@nuxt/image": "2.0.0",
     "@nuxt/scripts": "0.13.4",
-    "@nuxt/ui": "^4.6.1",
+    "@nuxt/ui": "^4.7.0",
     "@unhead/vue": "^2.1.13",
     "@vueuse/core": "^14.2.1",
     "@vueuse/nuxt": "14.2.1",
@@ -46,5 +46,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "packageManager": "pnpm@10.33.1"
+  "packageManager": "pnpm@10.33.2"
 }
