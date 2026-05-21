@@ -2,21 +2,21 @@ shamefullyHoist: true
 
 allowBuilds:
   '@parcel/watcher': false
-  esbuild: false
-  unrs-resolver: false
-  vue-demi: false
   better-sqlite3: false
+  esbuild: false
   sharp: false
 
+  unrs-resolver: false
+  vue-demi: false
 minimumReleaseAge: 2880
 
 minimumReleaseAgeExclude:
   # Nuxt
   - '@nuxt/*'
   - '@nuxtjs/*'
-  - 'nuxt'
+  - nuxt
   - 'nuxt-*'
   # Vercel
   - '@vercel/*'
   - '@ai-sdk/*'
-  - 'ai'
+  - ai
