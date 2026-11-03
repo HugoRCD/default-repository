@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@nuxt/image':
-        specifier: 2.2.0
-        version: 2.2.0(@nuxt/schema@4.6.2)(confbox@0.3.1)(dotenv@17.4.2)(giget@3.3.1)(jiti@2.7.0)(magic-string@1.4.3)(mlly@1.8.2)(rolldown@1.2.15)(unplugin@3.4.0(esbuild@0.28.2)(rolldown@1.2.15)(rollup@4.65.0)(vite@8.3.5(esbuild@0.28.2)(jiti@2.7.0)(terser@5.51.2)(yaml@2.9.1)))(unstorage@1.17.6(db0@0.3.4)(ioredis@5.11.1(supports-color@10.2.2)))
+        specifier: 2.2.1
+        version: 2.2.1(@nuxt/schema@4.6.3)(confbox@0.3.1)(dotenv@17.4.2)(giget@3.3.1)(jiti@2.7.0)(magic-string@1.4.3)(mlly@1.8.2)(rolldown@1.2.15)(unplugin@3.4.0(esbuild@0.28.2)(rolldown@1.2.15)(rollup@4.65.0)(vite@8.3.5(esbuild@0.28.2)(jiti@2.7.0)(terser@5.51.2)(yaml@2.9.1)))(unstorage@1.17.6(db0@0.3.4)(ioredis@5.11.1(supports-color@10.2.2)))
       '@nuxt/scripts':
         specifier: 0.13.4
         version: 0.13.4(@nuxt/schema@4.6.2)(@unhead/vue@2.1.17(vue@3.5.44(typescript@5.9.3)))(confbox@0.3.1)(db0@0.3.4)(dotenv@17.4.2)(giget@3.3.1)(ioredis@5.11.1(supports-color@10.2.2))(jiti@2.7.0)(mlly@1.8.2)(rolldown@1.2.15)(typescript@5.9.3)(vue@3.5.44(typescript@5.9.3))
@@ -974,8 +974,8 @@ packages:
   '@nuxt/icon@2.6.1':
     resolution: {integrity: sha512-D3T9QUJLd/qvQ54Zx3dQm2R+/icIVkixV8t0n0G9ZK+qtOkErp6Sj6aaazkGGwm0FpYcBBHQ26q74O8o5svBmA==}
 
-  '@nuxt/image@2.2.0':
-    resolution: {integrity: sha512-NJ0RJS7jKxjylLRyJVZKo3jzwa1OTEPl31A+ixp3MOZfFzObHjiePitxxn/xgvHFahL6LoOkXDQIth2po810KQ==}
+  '@nuxt/image@2.2.1':
+    resolution: {integrity: sha512-i0c3ItU5Cm69uh7VCsgpjOFWp9i2O9BnYv6m+382eI/jM1LVwFlSTz+hz/1eKmGALiRMS/fB7i0DuuKrf2jjVQ==}
     engines: {node: ^20.19.0 || >=22.12.0}
 
   '@nuxt/kit@4.6.2':
@@ -3503,8 +3503,8 @@ packages:
     resolution: {integrity: sha512-DWBMKyeM25D70nrIiTkgQth59/G+naKOTep6huF9j+GmeK3DMD60Zvxg5d5qQnz+38AHgou6ean2LECX+lrKDg==}
     engines: {node: '>= 12'}
 
-  ipx@4.0.0:
-    resolution: {integrity: sha512-f3ph+sud9DF46S5PZItN/Xbq90vfktDeF10A1dWoXYYvengxn0ZmmyVfsw5ij3QDtDXTGDM0zJp65/gUj4k78w==}
+  ipx@4.1.0:
+    resolution: {integrity: sha512-3Uk9EaCxvuo0orcwrQVbRO2TwM8oNbpP6hDBtBKwdCWK4SV8Z2sLD+2/iK2DKrNGYuOMyhJNQOORojb5rkkaGg==}
     engines: {node: ^20.16.0 || >=22.3.0}
     hasBin: true
     peerDependencies:
@@ -4640,6 +4640,11 @@ packages:
 
   srvx@1.0.6:
     resolution: {integrity: sha512-QeTKgAhk8OSsfeq60bl3wuVs9PmBftzmk7owBInA/F1YQne+TRw0UcPymNpURldAmx8hfmM2PNNGH/zgo3GpLA==}
+    engines: {node: '>=20.16.0'}
+    hasBin: true
+
+  srvx@1.0.8:
+    resolution: {integrity: sha512-ngFS/J6St4PJfHRHGjr78xkPPtbyXtdMOLNE4x/XZunEK3OhV7aGUWMHf9WTUEy6wm1U0W4okkd82ZFFWRVQTw==}
     engines: {node: '>=20.16.0'}
     hasBin: true
 
@@ -6475,10 +6480,10 @@ snapshots:
       - vite
       - vue
 
-  '@nuxt/image@2.2.0(@nuxt/schema@4.6.2)(confbox@0.3.1)(dotenv@17.4.2)(giget@3.3.1)(jiti@2.7.0)(magic-string@1.4.3)(mlly@1.8.2)(rolldown@1.2.15)(unplugin@3.4.0(esbuild@0.28.2)(rolldown@1.2.15)(rollup@4.65.0)(vite@8.3.5(esbuild@0.28.2)(jiti@2.7.0)(terser@5.51.2)(yaml@2.9.1)))(unstorage@1.17.6(db0@0.3.4)(ioredis@5.11.1(supports-color@10.2.2)))':
+  '@nuxt/image@2.2.1(@nuxt/schema@4.6.3)(confbox@0.3.1)(dotenv@17.4.2)(giget@3.3.1)(jiti@2.7.0)(magic-string@1.4.3)(mlly@1.8.2)(rolldown@1.2.15)(unplugin@3.4.0(esbuild@0.28.2)(rolldown@1.2.15)(rollup@4.65.0)(vite@8.3.5(esbuild@0.28.2)(jiti@2.7.0)(terser@5.51.2)(yaml@2.9.1)))(unstorage@1.17.6(db0@0.3.4)(ioredis@5.11.1(supports-color@10.2.2)))':
     dependencies:
       '@noble/hashes': 2.4.0
-      '@nuxt/kit': 4.6.2(@nuxt/schema@4.6.2)(confbox@0.3.1)(dotenv@17.4.2)(giget@3.3.1)(jiti@2.7.0)(magic-string@1.4.3)(mlly@1.8.2)(rolldown@1.2.15)(unplugin@3.4.0(esbuild@0.28.2)(rolldown@1.2.15)(rollup@4.65.0)(vite@8.3.5(esbuild@0.28.2)(jiti@2.7.0)(terser@5.51.2)(yaml@2.9.1)))
+      '@nuxt/kit': 4.6.3(@nuxt/schema@4.6.3)(confbox@0.3.1)(dotenv@17.4.2)(giget@3.3.1)(jiti@2.7.0)(magic-string@1.4.3)(mlly@1.8.2)(rolldown@1.2.15)(unplugin@3.4.0(esbuild@0.28.2)(rolldown@1.2.15)(rollup@4.65.0)(vite@8.3.5(esbuild@0.28.2)(jiti@2.7.0)(terser@5.51.2)(yaml@2.9.1)))
       defu: 6.1.7
       h3: 1.15.11
       image-meta: 0.3.0
@@ -6488,7 +6493,7 @@ snapshots:
       std-env: 4.3.0
       ufo: 1.6.4
     optionalDependencies:
-      ipx: 4.0.0(unstorage@1.17.6(db0@0.3.4)(ioredis@5.11.1(supports-color@10.2.2)))
+      ipx: 4.1.0(unstorage@1.17.6(db0@0.3.4)(ioredis@5.11.1(supports-color@10.2.2)))
     transitivePeerDependencies:
       - '@nuxt/schema'
       - '@types/node'
@@ -9299,10 +9304,10 @@ snapshots:
 
   ip-address@10.7.4: {}
 
-  ipx@4.0.0(unstorage@1.17.6(db0@0.3.4)(ioredis@5.11.1(supports-color@10.2.2))):
+  ipx@4.1.0(unstorage@1.17.6(db0@0.3.4)(ioredis@5.11.1(supports-color@10.2.2))):
     dependencies:
       sharp: 0.35.5
-      srvx: 1.0.6
+      srvx: 1.0.8
     optionalDependencies:
       unstorage: 1.17.6(db0@0.3.4)(ioredis@5.11.1(supports-color@10.2.2))
     transitivePeerDependencies:
@@ -10670,6 +10675,9 @@ snapshots:
   srvx@1.0.5: {}
 
   srvx@1.0.6: {}
+
+  srvx@1.0.8:
+    optional: true
 
   ssri@13.0.1:
     dependencies:
