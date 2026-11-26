@@ -27,12 +27,12 @@
   "dependencies": {
     "@nuxt/image": "2.2.1",
     "@nuxt/scripts": "0.13.4",
-    "@nuxt/ui": "^4.12.0",
-    "@unhead/vue": "^2.1.17",
+    "@nuxt/ui": "^4.13.1",
+    "@unhead/vue": "^2.1.19",
     "@vueuse/core": "^14.4.0",
     "@vueuse/nuxt": "14.4.0",
     "motion-v": "^1.10.3",
-    "nuxt": "^4.6.4",
+    "nuxt": "^4.7.0",
     "vue": "latest"
   },
   "devDependencies": {
@@ -46,5 +46,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "packageManager": "pnpm@11.28.11"
+  "packageManager": "pnpm@11.29.0"
 }
